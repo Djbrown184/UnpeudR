@@ -1,0 +1,33 @@
+{
+  "name": "unpeudr",
+  "version": "0.0.1",
+  "description": "Logiciel de l'Association UnpeudR",
+  "main": "./app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djbrown184/UnpeudR.git"
+  },
+  "keywords": [
+    "Electron",
+    "Application",
+    "Association",
+    "UnpeudR"
+  ],
+  "author": {
+    "name": "Pierre-Yves Delion",
+    "url": "https://github.com/Djbrown184"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Djbrown184/UnpeudR/issues"
+  },
+  "homepage": "https://github.com/Djbrown184/UnpeudR#readme",
+  "devDependencies": {
+    "electron": "^15.3.0",
+    "electron-builder": "^22.13.1",
+    "electron-reloader": "^1.2.1"
+  }
+}
